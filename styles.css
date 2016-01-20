@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CSS Testing Page</title>
+</head>
+
+<body>
+<!-- create a h2 that says shortcuts
+create a list with all the shortcuts -->
+  <h1>Hello! A little bit about me</h1>
+  <p><i>It's been a good day so far, I've learned about CLI, html, and git. Very cool!</i></p>
+
+  <h2>Here're some shortcuts to the pages the class created</h2>
+    <ul>
+      <li><h3>Link to be added</h3></li>
+      <li><h3>Link to be added</a></h3></li>
+    </ul>
+</body>
+
+</html>
